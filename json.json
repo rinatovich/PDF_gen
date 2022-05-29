@@ -1,0 +1,3260 @@
+{
+    "bank_code": "Миробод филиали",
+    "data": [
+        {
+            "id": 3,
+            "fullname": "Shakhboz Jumaev",
+            "device_log": [
+                {
+                    "id": 335,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T10: 57: 52.518Z",
+                    "duration": "3 кун 20: 11: 46"
+                },
+                {
+                    "id": 334,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T10: 57: 05.972Z",
+                    "duration": "00: 00: 46"
+                },
+                {
+                    "id": 333,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T10: 57: 00.558Z",
+                    "duration": "00: 00: 05"
+                },
+                {
+                    "id": 332,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T10: 56: 51.926Z",
+                    "duration": "00: 00: 08"
+                },
+                {
+                    "id": 331,
+                    "status": -1,
+                    "arrived_time": "2022-05-14T10: 56: 51.914Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 324,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T08: 39: 43.931Z",
+                    "duration": "02: 17: 07"
+                },
+                {
+                    "id": 321,
+                    "status": 1, 
+                    "arrived_time": "2022-05-14T07: 59: 50.561Z", "duration": "00: 39: 53"
+                },
+                {
+                    "id": 320,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T07: 59: 44.299Z",
+                    "duration": "00: 00: 06"
+                },
+                {
+                    "id": 319,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T07: 59: 38.809Z", 
+                    "duration": "00: 00: 05"
+                },
+                {
+                    "id": 318,
+                    "status": -1,
+                    "arrived_time": "2022-05-14T07: 59: 38.807Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 317,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T07: 59: 19.824Z",
+                    "duration": "00: 00: 18"
+                },
+                {
+                    "id": 313, "status
+": 1, "arrived_time": "2022-05-14T07: 48: 33.968Z", "duration": "00: 10: 45"
+                },
+                {
+                    "id": 312,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T07: 48: 27.764Z",
+                    "duration": "00: 00: 06"
+                },
+                {
+                    "id": 311,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T07: 38: 12.1
+06Z", "duration": "00: 10: 15"
+                },
+                {
+                    "id": 310,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T07: 38: 07.753Z",
+                    "duration": "00: 00: 04"
+                },
+                {
+                    "id": 309,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T07: 38: 03.650Z",
+                    "duration": "00: 00: 04"
+                },
+                {
+                    "id": 308, "
+status": -1, "arrived_time": "2022-05-14T07: 38: 03.640Z", "duration": "00: 00: 00"
+                },
+                {
+                    "id": 307,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T07: 37: 36.349Z",
+                    "duration": "00: 00: 27"
+                },
+                {
+                    "id": 306,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T07: 35: 35.498Z",
+                    "duration": "00: 02: 00"
+                },
+                {
+                    "id": 305,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T07: 35: 28.838Z",
+                    "duration": "00: 00: 06"
+                },
+                {
+                    "id": 304,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T07: 35: 23.949Z",
+                    "duration": "00: 00: 04"
+                },
+                {
+                    "id": 303,
+                    "status": -1,
+                    "arrived_time": "2022-05-14T07: 35: 23.941Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 302,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T07: 34: 53.104Z",
+                    "duration": "00: 00: 30"
+                },
+                {
+                    "id": 301,
+                    "status": 1,
+                    "arrived_time": "2022-05
+-14T07: 03: 24.959Z", "duration": "00: 31: 28"
+                },
+                {
+                    "id": 300,
+                    "status": -1,
+                    "arrived_time": "2022-05-14T07: 03: 24.958Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 299,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T07: 03: 13.890Z",
+                    "duration": "00: 00: 11"
+                },
+                {
+                    "id": 298,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T07: 01: 31.643Z",
+                    "duration": "00: 01: 42"
+                },
+                {
+                    "id": 297,
+                    "status": -1,
+                    "arrived_time": "2022-05-14T07: 01: 31.640Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 296,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T07: 01: 19.693Z",
+                    "duration": "00: 00: 11"
+                },
+                {
+                    "id": 295,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 59: 47.806Z",
+                    "duration": "00: 01: 31"
+                },
+                {
+                    "id": 294,
+                    "status": -1,
+                    "arrived_time": "2022-05-14T06: 59: 47.805Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 293,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T06: 57: 31.151Z",
+                    "duration": "00: 02: 16"
+                },
+                {
+                    "id": 292,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 55: 48.710Z",
+                    "duration": "00: 01: 42"
+                },
+                {
+                    "id": 291,
+                    "status": 1, "arrived_
+time": "2022-05-14T06: 53: 09.837Z", "duration": "00: 02: 38"
+                },
+                {
+                    "id": 290,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 52: 34.453Z",
+                    "duration": "00: 00: 35"
+                },
+                {
+                    "id": 289,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 51: 36.855Z", "duration
+": "00: 00: 57"
+                },
+                {
+                    "id": 288,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 46: 53.252Z",
+                    "duration": "00: 04: 43"
+                },
+                {
+                    "id": 287,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 45: 47.009Z",
+                    "duration": "00: 01: 06"
+                },
+                {
+                    "id": 286,
+                    "status": 1, "ar
+rived_time": "2022-05-14T06: 45: 39.443Z", "duration": "00: 00: 07"
+                },
+                {
+                    "id": 285,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 43: 59.793Z",
+                    "duration": "00: 01: 39"
+                },
+                {
+                    "id": 284,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 43: 07.657Z", "du
+ration": "00: 00: 52"
+                },
+                {
+                    "id": 283,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 42: 41.137Z",
+                    "duration": "00: 00: 26"
+                },
+                {
+                    "id": 282,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T06: 42: 31.196Z",
+                    "duration": "00: 00: 09"
+                },
+                {
+                    "id": 281,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 42: 21.390Z",
+                    "duration": "00: 00: 09"
+                },
+                {
+                    "id": 280,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 42: 09.488Z",
+                    "duration": "00: 00: 11"
+                },
+                {
+                    "id": 279,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 41: 25.381Z
+", "duration": "00: 00: 44"
+                },
+                {
+                    "id": 278,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 40: 44.742Z",
+                    "duration": "00: 00: 40"
+                },
+                {
+                    "id": 277,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 40: 22.454Z",
+                    "duration": "00: 00: 22"
+                },
+                {
+                    "id": 276, "sta
+tus": -1, "arrived_time": "2022-05-14T06: 40: 22.452Z", "duration": "00: 00: 00"
+                },
+                {
+                    "id": 275,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T06: 30: 09.107Z",
+                    "duration": "00: 10: 13"
+                },
+                {
+                    "id": 274,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 29: 47.612Z",
+                    "duration": "00: 00: 21"
+                },
+                {
+                    "id": 273,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 29: 33.364Z",
+                    "duration": "00: 00: 14"
+                },
+                {
+                    "id": 272,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 28: 28.383Z",
+                    "duration": "00: 01: 04"
+                },
+                {
+                    "id": 27
+1,
+                    "status": -1,
+                    "arrived_time": "2022-05-14T06: 28: 28.382Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 270,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T06: 26: 08.529Z",
+                    "duration": "00: 02: 19"
+                },
+                {
+                    "id": 269,
+                    "status": 1,
+                    "arrived_time": "2022-05-14
+T06: 25: 34.173Z", "duration": "00: 00: 34"
+                },
+                {
+                    "id": 268,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T06: 25: 27.989Z",
+                    "duration": "00: 00: 06"
+                },
+                {
+                    "id": 267,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 25: 18.254Z",
+                    "duration": "00: 00: 09"
+                },
+                {"
+id": 266, "status": 1, "arrived_time": "2022-05-14T06: 24: 32.818Z", "duration": "00: 00: 45"
+                },
+                {
+                    "id": 265,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T06: 24: 28.918Z",
+                    "duration": "00: 00: 03"
+                },
+                {
+                    "id": 264,
+                    "status": 1,
+                    "arrived_time": "2022
+-05-14T06: 24: 24.779Z", "duration": "00: 00: 04"
+                },
+                {
+                    "id": 263,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 23: 24.090Z",
+                    "duration": "00: 01: 00"
+                },
+                {
+                    "id": 262,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 22: 57.953Z",
+                    "duration": "00: 00: 26
+"
+                },
+                {
+                    "id": 261,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 22: 33.186Z",
+                    "duration": "00: 00: 24"
+                },
+                {
+                    "id": 260,
+                    "status": -1,
+                    "arrived_time": "2022-05-14T06: 22: 33.183Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 259,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T06: 20: 43.761Z",
+                    "duration": "00: 01: 49"
+                },
+                {
+                    "id": 258,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 20: 22.819Z",
+                    "duration": "00: 00: 20"
+                },
+                {
+                    "id": 257,
+                    "status": -1,
+                    "arrived_time": "2022-05-14T06: 20: 22.818Z",
+                    "duration": "
+00: 00: 00"
+                },
+                {
+                    "id": 256,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T06: 20: 07.672Z",
+                    "duration": "00: 00: 15"
+                },
+                {
+                    "id": 255,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 19: 45.943Z",
+                    "duration": "00: 00: 21"
+                },
+                {
+                    "id": 254,
+                    "status": -1, "arriv
+ed_time": "2022-05-14T06: 19: 45.935Z", "duration": "00: 00: 00"
+                },
+                {
+                    "id": 253,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T06: 18: 28.439Z",
+                    "duration": "00: 01: 17"
+                },
+                {
+                    "id": 252,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 18: 08.136Z", "durat
+ion": "00: 00: 20"
+                },
+                {
+                    "id": 251,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 17: 23.319Z",
+                    "duration": "00: 00: 44"
+                },
+                {
+                    "id": 250,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T06: 17: 15.358Z",
+                    "duration": "00: 00: 07"
+                },
+                {
+                    "id": 249,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 17: 09.667Z",
+                    "duration": "00: 00: 05"
+                },
+                {
+                    "id": 248,
+                    "status": -1,
+                    "arrived_time": "2022-05-14T06: 17: 09.664Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 247,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T06: 13: 36.799Z",
+                    "duration": "00: 03: 32"
+                },
+                {
+                    "id": 246,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 13: 15.983Z",
+                    "duration": "00: 00: 20"
+                },
+                {
+                    "id": 245,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 12: 35.778Z",
+                    "duration": "00: 00: 40"
+                },
+                {
+                    "id": 244, "statu
+s": 1, "arrived_time": "2022-05-14T06: 12: 07.536Z", "duration": "00: 00: 28"
+                },
+                {
+                    "id": 243,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 10: 55.410Z",
+                    "duration": "00: 01: 12"
+                },
+                {
+                    "id": 242,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T06: 10:49.
+269Z", "duration": "00: 00: 06"
+                },
+                {
+                    "id": 241,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 10: 44.824Z",
+                    "duration": "00: 00: 04"
+                },
+                {
+                    "id": 240,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T06: 10: 33.040Z",
+                    "duration": "00: 00: 11"
+                },
+                {
+                    "id": 239,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 10: 28.591Z",
+                    "duration": "00: 00: 04"
+                },
+                {
+                    "id": 238,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 10: 16.865Z",
+                    "duration": "00: 00: 11"
+                },
+                {
+                    "id": 237,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 10: 07.298Z",
+                    "duration": "00: 00: 09"
+                },
+                {
+                    "id": 236,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 09: 43.662Z",
+                    "duration": "00: 00: 23"
+                },
+                {
+                    "id": 235,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 08: 22.956Z",
+                    "duration": "00: 01: 20"
+                },
+                {
+                    "id": 234,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 08: 02.771Z",
+                    "duration": "00: 00: 20"
+                },
+                {
+                    "id": 233,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 07: 31.258Z",
+                    "duration": "00: 00: 31"
+                },
+                {
+                    "id": 232,
+                    "status": 1,
+                    "arrived_time": "2022-05-
+14T06: 07: 07.818Z", "duration": "00: 00: 23"
+                },
+                {
+                    "id": 231,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 06: 57.730Z",
+                    "duration": "00: 00: 10"
+                },
+                {
+                    "id": 230,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 06: 41.635Z",
+                    "duration": "00: 00: 16"
+                },
+                {
+                    "id": 229,
+                    "status": -1,
+                    "arrived_time": "2022-05-14T06: 06: 41.616Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 228,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T06: 04: 41.102Z",
+                    "duration": "00: 02: 00"
+                },
+                {
+                    "id": 227,
+                    "status": 1,
+                    "arrived_time": "2
+022-05-14T06: 03: 42.802Z", "duration": "00: 00: 58"
+                },
+                {
+                    "id": 226,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T06: 03: 35.672Z",
+                    "duration": "00: 00: 07"
+                },
+                {
+                    "id": 225,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 03: 17.751Z",
+                    "duration": "00: 00: 17"
+                },
+                {
+                    "id": 224,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T06: 03: 10.725Z",
+                    "duration": "00: 00: 07"
+                },
+                {
+                    "id": 223,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T06: 03: 03.628Z",
+                    "duration": "00: 00: 07"
+                },
+                {
+                    "id": 222,
+                    "status": -1, "arrived_ti
+me": "2022-05-14T06: 03: 03.625Z", "duration": "00: 00: 00"
+                },
+                {
+                    "id": 221,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T05: 15: 48.013Z",
+                    "duration": "00: 47: 15"
+                },
+                {
+                    "id": 220,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T05: 06: 59.168Z",
+                    "duration": "00: 08: 48"
+                },
+                {
+                    "id": 219,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T05: 06: 48.051Z",
+                    "duration": "00: 00: 11"
+                },
+                {
+                    "id": 218,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T05: 06: 36.495Z",
+                    "duration": "00: 00: 11"
+                },
+                {
+                    "id": 217,
+                    "status": 1, "arri
+ved_time": "2022-05-14T05: 06: 30.854Z", "duration": "00: 00: 05"
+                },
+                {
+                    "id": 216,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T05: 06: 20.676Z",
+                    "duration": "00: 00: 10"
+                },
+                {
+                    "id": 215,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T05: 06: 13.559Z", "dura
+tion": "00: 00: 07"
+                },
+                {
+                    "id": 214,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T05: 06: 04.223Z",
+                    "duration": "00: 00: 09"
+                },
+                {
+                    "id": 213,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T05: 04: 25.835Z",
+                    "duration": "00: 01: 38"
+                },
+                {
+                    "id": 212,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T05: 04: 14.875Z",
+                    "duration": "00: 00: 10"
+                },
+                {
+                    "id": 211,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T05: 02: 53.183Z",
+                    "duration": "00: 01: 21"
+                },
+                {
+                    "id": 210,
+                    "status": -1,
+                    "arrived_time": "2022-05-14T05: 02: 53.182Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 209,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T05: 02: 49.067Z",
+                    "duration": "00: 00: 04"
+                },
+                {
+                    "id": 208,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T05: 02: 21.319Z",
+                    "duration": "00: 00: 27"
+                },
+                {
+                    "id": 207, "stat
+us": -1, "arrived_time": "2022-05-14T05: 02: 21.317Z", "duration": "00: 00: 00"
+                },
+                {
+                    "id": 206,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T05: 01: 00.780Z",
+                    "duration": "00: 01: 20"
+                },
+                {
+                    "id": 205,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T05: 00: 3
+7.370Z", "duration": "00: 00: 23"
+                },
+                {
+                    "id": 204,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T05: 00: 33.048Z",
+                    "duration": "00: 00: 04"
+                },
+                {
+                    "id": 203,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T05: 00: 29.601Z",
+                    "duration": "00: 00: 03"
+                },
+                {
+                    "id": 202,
+                    "status": -1,
+                    "arrived_time": "2022-05-14T05: 00: 29.598Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 201,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T04: 59: 30.531Z",
+                    "duration": "00: 00: 59"
+                },
+                {
+                    "id": 200,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T
+04: 58: 54.605Z", "duration": "00: 00: 35"
+                },
+                {
+                    "id": 199,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T04: 58: 37.162Z",
+                    "duration": "00: 00: 17"
+                },
+                {
+                    "id": 198,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T04: 58: 12.050Z",
+                    "duration": "00: 00: 25"
+                },
+                {"i
+d": 197, "status": -1, "arrived_time": "2022-05-14T04: 58: 12.048Z", "duration": "00: 00: 00"
+                },
+                {
+                    "id": 196,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T04: 58: 09.305Z",
+                    "duration": "00: 00: 02"
+                },
+                {
+                    "id": 195,
+                    "status": 1,
+                    "arrived_time": "2022
+-05-14T04: 57: 47.352Z", "duration": "00: 00: 21"
+                },
+                {
+                    "id": 194,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T04: 57: 40.313Z",
+                    "duration": "00: 00: 07"
+                },
+                {
+                    "id": 193,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T04: 57: 32.661Z",
+                    "duration": "00: 00: 07
+"
+                },
+                {
+                    "id": 192,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T04: 57: 28.811Z",
+                    "duration": "00: 00: 03"
+                },
+                {
+                    "id": 191,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T04: 57: 17.853Z",
+                    "duration": "00: 00: 10"
+                },
+                {
+                    "id": 190,
+                    "status": -1,
+                    "arrived_time": "2022-05-14T04: 57: 17.850Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 189,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T04: 54: 41.809Z",
+                    "duration": "00: 02: 36"
+                },
+                {
+                    "id": 188,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T04: 54: 16.557Z",
+                    "duration": "0
+0: 00: 25"
+                },
+                {
+                    "id": 187,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T04: 49: 05.891Z",
+                    "duration": "00: 05: 10"
+                },
+                {
+                    "id": 186,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T04: 48: 57.109Z",
+                    "duration": "00: 00: 08"
+                },
+                {
+                    "id": 185,
+                    "status": 1, "arrived
+_time": "2022-05-14T04: 48: 44.599Z", "duration": "00: 00: 12"
+                },
+                {
+                    "id": 184,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T04: 48: 38.039Z",
+                    "duration": "00: 00: 06"
+                },
+                {
+                    "id": 183,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T04: 48: 33.161Z", "duratio
+n": "00: 00: 04"
+                },
+                {
+                    "id": 182,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T04: 48: 26.603Z",
+                    "duration": "00: 00: 06"
+                },
+                {
+                    "id": 181,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T04: 48: 21.394Z",
+                    "duration": "00: 00: 05"
+                },
+                {
+                    "id": 180,
+                    "status": -1, "
+arrived_time": "2022-05-14T04: 48: 21.393Z", "duration": "00: 00: 00"
+                },
+                {
+                    "id": 179,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T04: 48: 04.712Z",
+                    "duration": "00: 00: 16"
+                },
+                {
+                    "id": 178,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T04: 47: 42.394Z", "
+duration": "00: 00: 22"
+                },
+                {
+                    "id": 177,
+                    "status": -1,
+                    "arrived_time": "2022-05-14T04: 47: 42.391Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 176,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T04: 47: 34.618Z",
+                    "duration": "00: 00: 07"
+                },
+                {
+                    "id": 175, "status
+": 1, "arrived_time": "2022-05-14T04: 47: 06.797Z", "duration": "00: 00: 27"
+                },
+                {
+                    "id": 174,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T04: 46: 38.000Z",
+                    "duration": "00: 00: 28"
+                },
+                {
+                    "id": 173,
+                    "status": -1,
+                    "arrived_time": "2022-05-14T04: 46:37.
+999Z", "duration": "00: 00: 00"
+                },
+                {
+                    "id": 172,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T04: 44: 25.147Z",
+                    "duration": "00: 02: 12"
+                },
+                {
+                    "id": 171,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T04: 23: 56.579Z",
+                    "duration": "00: 20: 28"
+                },
+                {
+                    "id": 170,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T04: 23: 55.600Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 169,
+                    "status": -1,
+                    "arrived_time": "2022-05-14T04: 23: 53.285Z",
+                    "duration": "00: 00: 02"
+                },
+                {
+                    "id": 168,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T04: 23: 03.936Z", "duration": "00: 00: 49"
+                },
+                {
+                    "id": 167,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T04: 21: 34.546Z",
+                    "duration": "00: 01: 29"
+                },
+                {
+                    "id": 166,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T04: 21: 33.616Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 165,
+                    "status": -1,
+                    "arrived_time": "2022-05-14T04: 21: 33.614Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 164,
+                    "status": 3,
+                    "arrived_time": "2022-05-14T04: 16: 57.012Z",
+                    "duration": "00: 04: 36"
+                },
+                {
+                    "id": 163,
+                    "status": 1,
+                    "arrived_time": "2022-0
+5-14T04: 16: 20.262Z", "duration": "00: 00: 36"
+                },
+                {
+                    "id": 162,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T04: 16: 13.835Z",
+                    "duration": "00: 00: 06"
+                },
+                {
+                    "id": 161,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T04: 15: 04.186Z",
+                    "duration": "00: 01: 09"
+                },
+                {
+                    "id": 160,
+                    "status": 0,
+                    "arrived_time": "2022-05-14T04: 14: 57.566Z",
+                    "duration": "00: 00: 06"
+                },
+                {
+                    "id": 159,
+                    "status": 1,
+                    "arrived_time": "2022-05-14T04: 14: 16.144Z",
+                    "duration": "00: 00: 41"
+                },
+                {
+                    "id": 158,
+                    "status": -1,
+                    "arrived_time": "2022-05-14T04: 14: 16.084Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 157,
+                    "status": 3,
+                    "arrived_time": "2022-05-13T13: 03: 51.435Z",
+                    "duration": "15: 10: 24"
+                },
+                {
+                    "id": 156,
+                    "status": 5,
+                    "arrived_time": "2022-05-13T13: 03: 29.523Z",
+                    "duration": "00: 00: 21"
+                },
+                {
+                    "id": 153,
+                    "status": 3,
+                    "arrived_time": "2022-05-13T06: 05: 55.934Z",
+                    "duration": "06: 57: 33"
+                },
+                {
+                    "id": 152,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T06: 04: 01.957Z",
+                    "duration": "00: 01: 53"
+                },
+                {
+                    "id": 151,
+                    "status": 0, "arrived_t
+ime": "2022-05-13T06: 03: 51.360Z", "duration": "00: 00: 10"
+                },
+                {
+                    "id": 150,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T06: 03: 35.846Z",
+                    "duration": "00: 00: 15"
+                },
+                {
+                    "id": 149,
+                    "status": -1,
+                    "arrived_time": "2022-05-13T06: 03: 35.843Z", "duration
+": "00: 00: 00"
+                },
+                {
+                    "id": 148,
+                    "status": 3,
+                    "arrived_time": "2022-05-13T06: 02: 28.454Z",
+                    "duration": "00: 01: 07"
+                },
+                {
+                    "id": 147,
+                    "status": 0,
+                    "arrived_time": "2022-05-13T06: 01: 56.445Z",
+                    "duration": "00: 00: 32"
+                },
+                {
+                    "id": 146,
+                    "status": 1, "ar
+rived_time": "2022-05-13T06: 01: 47.968Z", "duration": "00: 00: 08"
+                },
+                {
+                    "id": 145,
+                    "status": -1,
+                    "arrived_time": "2022-05-13T06: 01: 47.967Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 144,
+                    "status": 3,
+                    "arrived_time": "2022-05-13T05: 58: 36.900Z", "d
+uration": "00: 03: 11"
+                },
+                {
+                    "id": 143,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 58: 16.344Z",
+                    "duration": "00: 00: 20"
+                },
+                {
+                    "id": 142,
+                    "status": -1,
+                    "arrived_time": "2022-05-13T05: 58: 16.343Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 141,
+                    "status": 3,
+                    "arrived_time": "2022-05-13T05: 57: 27.721Z",
+                    "duration": "00: 00: 48"
+                },
+                {
+                    "id": 140,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 56: 57.476Z",
+                    "duration": "00: 00: 30"
+                },
+                {
+                    "id": 139,
+                    "status": -1,
+                    "arrived_time": "2022-05-13T05: 56: 57.4
+75Z", "duration": "00: 00: 00"
+                },
+                {
+                    "id": 138,
+                    "status": 3,
+                    "arrived_time": "2022-05-13T05: 56: 48.620Z",
+                    "duration": "00: 00: 08"
+                },
+                {
+                    "id": 137,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 56: 26.819Z",
+                    "duration": "00: 00: 21"
+                },
+                {
+                    "id": 136, "
+status": 1, "arrived_time": "2022-05-13T05: 56: 07.086Z", "duration": "00: 00: 19"
+                },
+                {
+                    "id": 135,
+                    "status": -1,
+                    "arrived_time": "2022-05-13T05: 56: 07.084Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 134,
+                    "status": 3,
+                    "arrived_time": "2022-05-13T05: 55: 57.477Z",
+                    "duration": "00: 00: 09"
+                },
+                {
+                    "id": 133,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 55: 26.903Z",
+                    "duration": "00: 00: 30"
+                },
+                {
+                    "id": 132,
+                    "status": -1,
+                    "arrived_time": "2022-05-13T05: 55: 26.900Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 131,
+                    "status": 3,
+                    "arrived_time": "2022-05-13T05: 52: 02.974Z",
+                    "duration": "00: 03: 23"
+                },
+                {
+                    "id": 130,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 51: 39.544Z",
+                    "duration": "00: 00: 23"
+                },
+                {
+                    "id": 129,
+                    "status": 0,
+                    "arrived_time": "2022-05
+-13T05: 51: 35.597Z", "duration": "00: 00: 03"
+                },
+                {
+                    "id": 128,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 51: 32.676Z",
+                    "duration": "00: 00: 02"
+                },
+                {
+                    "id": 127,
+                    "status": -1,
+                    "arrived_time": "2022-05-13T05: 51: 32.675Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 126,
+                    "status": 3,
+                    "arrived_time": "2022-05-13T05: 50: 32.751Z",
+                    "duration": "00: 00: 59"
+                },
+                {
+                    "id": 125,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 50: 11.419Z",
+                    "duration": "00: 00: 21"
+                },
+                {
+                    "id": 124,
+                    "status": 0,
+                    "arrived_time": "
+2022-05-13T05: 50: 06.728Z", "duration": "00: 00: 04"
+                },
+                {
+                    "id": 123,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 49: 53.624Z",
+                    "duration": "00: 00: 13"
+                },
+                {
+                    "id": 122,
+                    "status": 0,
+                    "arrived_time": "2022-05-13T05: 49: 48.925Z",
+                    "duration": "00: 0
+0: 04"
+                },
+                {
+                    "id": 121,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 49: 46.120Z",
+                    "duration": "00: 00: 02"
+                },
+                {
+                    "id": 120,
+                    "status": -1,
+                    "arrived_time": "2022-05-13T05: 49: 46.095Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 119,
+                    "status": 3, "arrived_t
+ime": "2022-05-13T05: 48: 26.476Z", "duration": "00: 01: 19"
+                },
+                {
+                    "id": 118,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 47: 17.754Z",
+                    "duration": "00: 01: 08"
+                },
+                {
+                    "id": 117,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 47: 17.599Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 116,
+                    "status": 0,
+                    "arrived_time": "2022-05-13T05: 47: 09.025Z",
+                    "duration": "00: 00: 08"
+                },
+                {
+                    "id": 115,
+                    "status": 0,
+                    "arrived_time": "2022-05-13T05: 47: 09.023Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 114,
+                    "status": 1, "arr
+ived_time": "2022-05-13T05: 47: 05.419Z", "duration": "00: 00: 03"
+                },
+                {
+                    "id": 113,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 43: 45.426Z",
+                    "duration": "00: 03: 19"
+                },
+                {
+                    "id": 112,
+                    "status": 0,
+                    "arrived_time": "2022-05-13T05: 43: 39.108Z", "dur
+ation": "00: 00: 06"
+                },
+                {
+                    "id": 111,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 43: 18.173Z",
+                    "duration": "00: 00: 20"
+                },
+                {
+                    "id": 110,
+                    "status": 0,
+                    "arrived_time": "2022-05-13T05: 43: 11.895Z",
+                    "duration": "00: 00: 06"
+                },
+                {
+                    "id": 109,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 42: 21.139Z",
+                    "duration": "00: 00: 50"
+                },
+                {
+                    "id": 108,
+                    "status": 0,
+                    "arrived_time": "2022-05-13T05: 42: 17.691Z",
+                    "duration": "00: 00: 03"
+                },
+                {
+                    "id": 107,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 42: 11.426Z",
+                    "duration": "00: 00: 06"
+                },
+                {
+                    "id": 106,
+                    "status": 0,
+                    "arrived_time": "2022-05-13T05: 42: 04.874Z",
+                    "duration": "00: 00: 06"
+                },
+                {
+                    "id": 105,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 42: 00.132Z",
+                    "duration": "00: 00: 04"
+                },
+                {
+                    "id": 104, "stat
+us": 0, "arrived_time": "2022-05-13T05: 41: 50.467Z", "duration": "00: 00: 09"
+                },
+                {
+                    "id": 103,
+                    "status": 5,
+                    "arrived_time": "2022-05-13T05: 29: 46.830Z",
+                    "duration": "00: 12: 03"
+                },
+                {
+                    "id": 102,
+                    "status": 3,
+                    "arrived_time": "2022-05-13T05: 29: 05
+.750Z", "duration": "00: 00: 41"
+                },
+                {
+                    "id": 101,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 28: 15.977Z",
+                    "duration": "00: 00: 49"
+                },
+                {
+                    "id": 100,
+                    "status": 0,
+                    "arrived_time": "2022-05-13T05: 28: 10.810Z",
+                    "duration": "00: 00: 05"
+                },
+                {
+                    "id": 99,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 26: 43.246Z",
+                    "duration": "00: 01: 27"
+                },
+                {
+                    "id": 98,
+                    "status": 0,
+                    "arrived_time": "2022-05-13T05: 26: 28.986Z",
+                    "duration": "00: 00: 14"
+                },
+                {
+                    "id": 97,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 24: 41.098Z", "duration": "00: 01: 47"
+                },
+                {
+                    "id": 96,
+                    "status": 0,
+                    "arrived_time": "2022-05-13T05: 24: 36.616Z",
+                    "duration": "00: 00: 04"
+                },
+                {
+                    "id": 95,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 24: 30.617Z",
+                    "duration": "00: 00: 05"
+                },
+                {
+                    "id": 94,
+                    "status": 0,
+                    "arrived_time": "2022-05-13T05: 24: 26.672Z",
+                    "duration": "00: 00: 03"
+                },
+                {
+                    "id": 93,
+                    "status": 5,
+                    "arrived_time": "2022-05-13T05: 22: 48.148Z",
+                    "duration": "00: 01: 38"
+                },
+                {
+                    "id": 92,
+                    "status": 3,
+                    "arrived_time": "2022-05-13T05: 2
+0: 13.490Z", "duration": "00: 02: 34"
+                },
+                {
+                    "id": 91,
+                    "status": 0,
+                    "arrived_time": "2022-05-13T05: 19: 28.241Z",
+                    "duration": "00: 00: 45"
+                },
+                {
+                    "id": 90,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 19: 26.039Z",
+                    "duration": "00: 00: 02"
+                },
+                {
+                    "id": 89,
+                    "status": 0,
+                    "arrived_time": "2022-05-13T05: 19: 12.410Z",
+                    "duration": "00: 00: 13"
+                },
+                {
+                    "id": 88,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 19: 06.567Z",
+                    "duration": "00: 00: 05"
+                },
+                {
+                    "id": 87,
+                    "status": 0,
+                    "arrived_time": "2022-05-13T05: 19: 01.909Z",
+                    "duration": "00: 00: 04"
+                },
+                {
+                    "id": 86,
+                    "status": 5,
+                    "arrived_time": "2022-05-13T05: 18: 01.749Z",
+                    "duration": "00: 01: 00"
+                },
+                {
+                    "id": 85,
+                    "status": 3,
+                    "arrived_time": "2022-05-13T05: 17: 52.184Z",
+                    "duration": "00: 00: 09"
+                },
+                {
+                    "id": 8
+4,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 09: 35.808Z",
+                    "duration": "00: 08: 16"
+                },
+                {
+                    "id": 83,
+                    "status": 0,
+                    "arrived_time": "2022-05-13T05: 09: 29.587Z",
+                    "duration": "00: 00: 06"
+                },
+                {
+                    "id": 82,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 09: 24.308Z", "duration": "00: 00: 05"
+                },
+                {
+                    "id": 81,
+                    "status": -1,
+                    "arrived_time": "2022-05-13T05: 09: 24.223Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 80,
+                    "status": 3,
+                    "arrived_time": "2022-05-13T05: 09: 14.875Z",
+                    "duration": "00: 00: 09"
+                },
+                {
+                    "id": 79,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 06: 23.190Z",
+                    "duration": "00: 02: 51"
+                },
+                {
+                    "id": 78,
+                    "status": 0,
+                    "arrived_time": "2022-05-13T05: 06: 19.580Z",
+                    "duration": "00: 00: 03"
+                },
+                {
+                    "id": 77,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T
+05: 06: 18.458Z", "duration": "00: 00: 01"
+                },
+                {
+                    "id": 76,
+                    "status": 0,
+                    "arrived_time": "2022-05-13T05: 06: 11.383Z",
+                    "duration": "00: 00: 07"
+                },
+                {
+                    "id": 75,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 06: 06.812Z",
+                    "duration": "00: 00: 04"
+                },
+                {
+                    "id": 74,
+                    "status": -1,
+                    "arrived_time": "2022-05-13T05: 06: 06.811Z",
+                    "duration": "00: 00: 00"
+                },
+                {
+                    "id": 73,
+                    "status": 3,
+                    "arrived_time": "2022-05-13T05: 06: 02.357Z",
+                    "duration": "00: 00: 04"
+                },
+                {
+                    "id": 72,
+                    "status": 1,
+                    "arrived_time": "2022-05-1
+3T05: 03: 03.220Z", "duration": "00: 02: 59"
+                },
+                {
+                    "id": 71,
+                    "status": 0,
+                    "arrived_time": "2022-05-13T05: 02: 55.542Z",
+                    "duration": "00: 00: 07"
+                },
+                {
+                    "id": 70,
+                    "status": 1,
+                    "arrived_time": "2022-05-13T05: 02: 50.995Z",
+                    "duration": "00: 00: 04"
+                },
+                {"i
+d": 69, "status": 0, "arrived_time": "2022-05-13T05: 02: 37.744Z", "duration": "00: 00: 13"
+                },
+                {
+                    "id": 68,
+                    "status": 4,
+                    "arrived_time": "2022-05-13T05: 02: 22.951Z",
+                    "duration": "00: 00: 14"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "fullname": "Turdaliev Javokhir Botirali", 
+            "device_log": [
+                {
+                "id": 155,
+                "status": 3,
+                "arrived_time": "2022-05-13T12: 06: 55.819Z",
+                "duration": "4 кун 19: 02: 42"
+            },
+            {
+                "id": 154,
+                "status": 4,
+                "arrived_time": "2022-05-13T12: 06: 33.847Z",
+                "duration": "00: 00: 21"
+            }
+        ]
+    }
+]
+},
+{
+"bank_code": "Шайхонтоҳур филиали",
+"data": [
+    {
+        "id": 2,
+        "fullname": "Javoxir",
+        "device_log": [
+            {
+                "id": 67,
+                "status": 3,
+                "arrived_time": "2022-05-12T04: 55: 33.977Z",
+                "duration": "6 кун 02: 14: 04"
+            },
+            {
+                "id": 66,
+                "status": 5,
+                "arrived_time": "2022-05-12T
+04: 53: 45.118Z", "duration": "00: 01: 48"
+            },
+            {
+                "id": 65,
+                "status": 0,
+                "arrived_time": "2022-05-12T04: 50: 24.962Z",
+                "duration": "00: 03: 20"
+            },
+            {
+                "id": 64,
+                "status": 1,
+                "arrived_time": "2022-05-12T04: 49: 40.456Z",
+                "duration": "00: 00: 44"
+            },
+            {
+                "id": 63,
+                "status": 0,
+                "arrived_time": "2022-05-12T04: 49: 31.273Z",
+                "duration": "00: 00: 09"
+            },
+            {
+                "id": 62,
+                "status": 5,
+                "arrived_time": "2022-05-12T04: 49: 23.811Z",
+                "duration": "00: 00: 07"
+            },
+            {
+                "id": 61,
+                "status": 3,
+                "arrived_time": "2022-05-11
+T11: 16: 08.307Z", "duration": "17: 33: 15"
+            },
+            {
+                "id": 60,
+                "status": 5,
+                "arrived_time": "2022-05-11T11: 15: 16.217Z",
+                "duration": "00: 00: 52"
+            },
+            {
+                "id": 59,
+                "status": 3,
+                "arrived_time": "2022-05-11T11: 13: 55.930Z",
+                "duration": "00: 01: 20"
+            },
+            {"id
+": 58, "status": 5, "arrived_time": "2022-05-11T11: 13: 14.451Z", "duration": "00: 00: 41"
+            },
+            {
+                "id": 57,
+                "status": 0,
+                "arrived_time": "2022-05-11T11: 11: 04.746Z",
+                "duration": "00: 02: 09"
+            },
+            {
+                "id": 56,
+                "status": 1,
+                "arrived_time": "2022-05-1
+1T11: 10: 56.855Z", "duration": "00: 00: 07"
+            },
+            {
+                "id": 55,
+                "status": -1,
+                "arrived_time": "2022-05-11T11: 10: 56.852Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 54,
+                "status": 3,
+                "arrived_time": "2022-05-11T11: 10: 01.663Z",
+                "duration": "00: 00: 55"
+            },
+            {"
+id": 53, "status": 5, "arrived_time": "2022-05-11T11: 09: 24.700Z", "duration": "00: 00: 36"
+            },
+            {
+                "id": 52,
+                "status": 0,
+                "arrived_time": "2022-05-11T11: 08: 02.869Z",
+                "duration": "00: 01: 21"
+            },
+            {
+                "id": 51,
+                "status": -1,
+                "arrived_time": "2022-0
+5-11T11: 08: 02.867Z", "duration": "00: 00: 00"
+            },
+            {
+                "id": 50,
+                "status": 3,
+                "arrived_time": "2022-05-11T11: 01: 54.478Z",
+                "duration": "00: 06: 08"
+            },
+            {
+                "id": 49,
+                "status": 5,
+                "arrived_time": "2022-05-11T11: 01: 34.225Z",
+                "duration": "00: 00: 20"
+            },
+            {
+                "id": 48,
+                "status": 0,
+                "arrived_time": "2022-05-11T10: 59: 54.810Z",
+                "duration": "00: 01: 39"
+            },
+            {
+                "id": 47,
+                "status": 1,
+                "arrived_time": "2022-05-11T10: 59: 49.489Z",
+                "duration": "00: 00: 05"
+            },
+            {
+                "id": 46,
+                "status": 0,
+                "arrived_time": "2022-
+05-11T10: 59: 35.394Z", "duration": "00: 00: 14"
+            },
+            {
+                "id": 45,
+                "status": -1,
+                "arrived_time": "2022-05-11T10: 59: 35.390Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 44,
+                "status": 3,
+                "arrived_time": "2022-05-11T10: 57: 53.777Z",
+                "duration": "00: 01: 41"
+            },
+            {
+                "id": 43,
+                "status": 5,
+                "arrived_time": "2022-05-11T10: 57: 31.539Z",
+                "duration": "00: 00: 22"
+            },
+            {
+                "id": 42,
+                "status": 0,
+                "arrived_time": "2022-05-11T10: 55: 55.859Z",
+                "duration": "00: 01: 35"
+            },
+            {
+                "id": 41,
+                "status": 1,
+                "arrived_time": "202
+2-05-11T10: 55: 40.098Z", "duration": "00: 00: 15"
+            },
+            {
+                "id": 40,
+                "status": -1,
+                "arrived_time": "2022-05-11T10: 55: 40.095Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 39,
+                "status": 3,
+                "arrived_time": "2022-05-11T10: 54: 05.188Z",
+                "duration": "00: 01: 34
+"
+            },
+            {
+                "id": 38,
+                "status": 5,
+                "arrived_time": "2022-05-11T10: 53: 44.350Z",
+                "duration": "00: 00: 20"
+            },
+            {
+                "id": 37,
+                "status": 0,
+                "arrived_time": "2022-05-11T10: 52: 42.497Z",
+                "duration": "00: 01: 01"
+            },
+            {
+                "id": 36,
+                "status": 1,
+                "arrived_time": "2
+022-05-11T10: 52: 30.953Z", "duration": "00: 00: 11"
+            },
+            {
+                "id": 35,
+                "status": 0,
+                "arrived_time": "2022-05-11T10: 52: 21.180Z",
+                "duration": "00: 00: 09"
+            },
+            {
+                "id": 34,
+                "status": -1,
+                "arrived_time": "2022-05-11T10: 52: 21.178Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 33,
+                "status": 3,
+                "arrived_time": "2022-05-11T10: 49: 49.529Z",
+                "duration": "00: 02: 31"
+            },
+            {
+                "id": 32,
+                "status": 5,
+                "arrived_time": "2022-05-11T10: 49: 29.166Z",
+                "duration": "00: 00: 20"
+            },
+            {
+                "id": 31,
+                "status": 3,
+                "arrived_time": "2022-05-11T10: 24: 48.840Z",
+                "duration": "00: 24: 40"
+            },
+            {
+                "id": 30,
+                "status": -1,
+                "arrived_time": "2022-05-11T10: 23: 01.710Z",
+                "duration": "00: 01: 47"
+            },
+            {
+                "id": 29,
+                "status": 3,
+                "arrived_time": "2022-05-11T10: 22: 27.497Z",
+                "duration": "00: 0
+0: 34"
+            },
+            {
+                "id": 28,
+                "status": 0,
+                "arrived_time": "2022-05-11T10: 18: 09.860Z",
+                "duration": "00: 04: 17"
+            },
+            {
+                "id": 27,
+                "status": 5,
+                "arrived_time": "2022-05-11T10: 17: 46.373Z",
+                "duration": "00: 00: 23"
+            },
+            {
+                "id": 26,
+                "status": 0,
+                "arrived_time": "2022-05-11T10: 16: 55.157Z",
+                "duration": "00: 00: 51"
+            },
+            {
+                "id": 25,
+                "status": 5,
+                "arrived_time": "2022-05-11T10: 16: 37.963Z",
+                "duration": "00: 00: 17"
+            },
+            {
+                "id": 24,
+                "status": 0,
+                "arrived_time": "2022-05-11T10: 13: 56.259Z",
+                "duration": "00: 02: 41"
+            },
+            {
+                "id": 23,
+                "status": 5,
+                "arrived_time": "2022-05-11T10: 08: 27.460Z",
+                "duration": "00: 05: 28"
+            },
+            {
+                "id": 22,
+                "status": 0,
+                "arrived_time": "2022-05-11T10: 07: 01.149Z",
+                "duration": "00: 01: 26"
+            },
+            {
+                "id": 21,
+                "status": 5, "arrived_time
+": "2022-05-11T10: 03: 11.515Z", "duration": "00: 03: 49"
+            }
+        ]
+    }
+]
+},
+{
+"bank_code": "Мирзо Улуғбек филиали",
+"data": [
+    {
+        "id": 6,
+        "fullname": "eldor",
+        "device_log": [
+            {
+                "id": 461,
+                "status": 3,
+                "arrived_time": "2022-05-16T10: 17: 56.503Z", "duration
+": "1 кун 20: 51: 42"
+            },
+            {
+                "id": 460,
+                "status": 1,
+                "arrived_time": "2022-05-16T10: 16: 04.464Z",
+                "duration": "00: 01: 52"
+            },
+            {
+                "id": 456,
+                "status": 1,
+                "arrived_time": "2022-05-16T10: 13: 18.265Z",
+                "duration": "00: 02: 46"
+            },
+            {
+                "id": 455,
+                "status": -1,
+                "arrived_time": "2022-05-16T10: 13: 18.252Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 439,
+                "status": 3,
+                "arrived_time": "2022-05-16T07: 38: 31.731Z",
+                "duration": "02: 34: 46"
+            },
+            {
+                "id": 438,
+                "status": 0,
+                "arrived_time": "2022-05-16T07: 32: 58.490
+Z", "duration": "00: 05: 33"
+            },
+            {
+                "id": 437,
+                "status": 1,
+                "arrived_time": "2022-05-16T06: 38: 34.533Z",
+                "duration": "00: 54: 23"
+            },
+            {
+                "id": 436,
+                "status": 0,
+                "arrived_time": "2022-05-16T06: 32: 52.958Z",
+                "duration": "00: 05: 41"
+            },
+            {
+                "id": 435, "st
+atus": 1, "arrived_time": "2022-05-16T06: 31: 49.017Z", "duration": "00: 01: 03"
+            },
+            {
+                "id": 434,
+                "status": 0,
+                "arrived_time": "2022-05-16T06: 26: 10.411Z",
+                "duration": "00: 05: 38"
+            },
+            {
+                "id": 433,
+                "status": 1,
+                "arrived_time": "2022-05-16T06: 25: 57.652Z",
+                "duration": "00: 00: 12"
+            },
+            {
+                "id": 432,
+                "status": 0,
+                "arrived_time": "2022-05-16T05: 56: 47.402Z",
+                "duration": "00: 29: 10"
+            },
+            {
+                "id": 431,
+                "status": 1,
+                "arrived_time": "2022-05-16T05: 53: 35.892Z",
+                "duration": "00: 03: 11"
+            },
+            {
+                "id": 43
+0,
+                "status": 0,
+                "arrived_time": "2022-05-16T05: 53: 12.197Z",
+                "duration": "00: 00: 23"
+            },
+            {
+                "id": 429,
+                "status": 1,
+                "arrived_time": "2022-05-16T05: 52: 30.263Z",
+                "duration": "00: 00: 41"
+            },
+            {
+                "id": 428,
+                "status": 0,
+                "arrived_time": "2022-05-16T
+05: 52: 12.688Z", "duration": "00: 00: 17"
+            },
+            {
+                "id": 427,
+                "status": 5,
+                "arrived_time": "2022-05-16T05: 51: 36.910Z",
+                "duration": "00: 00: 35"
+            },
+            {
+                "id": 425,
+                "status": 3,
+                "arrived_time": "2022-05-14T13: 52: 02.618Z",
+                "duration": "1 кун 15: 59: 34"
+            },
+            {
+                "id": 422,
+                "status": 0,
+                "arrived_time": "2022-05-14T13: 22: 10.217Z",
+                "duration": "00: 29: 52"
+            },
+            {
+                "id": 421,
+                "status": 1,
+                "arrived_time": "2022-05-14T13: 21: 00.684Z",
+                "duration": "00: 01: 09"
+            },
+            {
+                "id": 420,
+                "status": 0,
+                "arrived_time": "2022-05-14T13: 20: 54.370Z",
+                "duration": "00: 00: 06"
+            },
+            {
+                "id": 418,
+                "status": 1,
+                "arrived_time": "2022-05-14T13: 18: 30.184Z",
+                "duration": "00: 02: 24"
+            },
+            {
+                "id": 417,
+                "status": -1,
+                "arrived_time": "2022-05-14T13: 18: 30.171Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 416,
+                "status": 3,
+                "arrived_time": "2022-05-14T13: 00: 58.870Z",
+                "duration": "00: 17: 31"
+            },
+            {
+                "id": 412,
+                "status": 0,
+                "arrived_time": "2022-05-14T13: 00: 31.823Z",
+                "duration": "00: 00: 27"
+            },
+            {
+                "id": 410,
+                "status": 1, "arrived_
+time": "2022-05-14T13: 00: 01.348Z", "duration": "00: 00: 30"
+            },
+            {
+                "id": 409,
+                "status": -1,
+                "arrived_time": "2022-05-14T13: 00: 01.346Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 406,
+                "status": 3,
+                "arrived_time": "2022-05-14T12: 58: 46.512Z", "duratio
+n": "00: 01: 14"
+            },
+            {
+                "id": 404,
+                "status": 0,
+                "arrived_time": "2022-05-14T12: 58: 08.236Z",
+                "duration": "00: 00: 38"
+            },
+            {
+                "id": 403,
+                "status": 1,
+                "arrived_time": "2022-05-14T12: 57: 49.602Z",
+                "duration": "00: 00: 18"
+            },
+            {
+                "id": 402,
+                "status": 0, "a
+rrived_time": "2022-05-14T12: 57: 48.855Z", "duration": "00: 00: 00"
+            },
+            {
+                "id": 401,
+                "status": 5,
+                "arrived_time": "2022-05-14T12: 57: 45.594Z",
+                "duration": "00: 00: 03"
+            },
+            {
+                "id": 400,
+                "status": 0,
+                "arrived_time": "2022-05-14T12: 56: 56.480Z", "d
+uration": "00: 00: 49"
+            },
+            {
+                "id": 399,
+                "status": 1,
+                "arrived_time": "2022-05-14T12: 55: 04.951Z",
+                "duration": "00: 01: 51"
+            },
+            {
+                "id": 398,
+                "status": 0,
+                "arrived_time": "2022-05-14T12: 54: 57.236Z",
+                "duration": "00: 00: 07"
+            },
+            {
+                "id": 397,
+                "status": 1,
+                "arrived_time": "2022-05-14T12: 54: 40.878Z",
+                "duration": "00: 00: 16"
+            },
+            {
+                "id": 396,
+                "status": -1,
+                "arrived_time": "2022-05-14T12: 54: 40.876Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 393,
+                "status": 3,
+                "arrived_time": "2022-05-14T12: 43: 29.29
+9Z", "duration": "00: 11: 11"
+            },
+            {
+                "id": 377,
+                "status": -1,
+                "arrived_time": "2022-05-14T12: 16: 31.795Z",
+                "duration": "00: 26: 57"
+            },
+            {
+                "id": 376,
+                "status": 3,
+                "arrived_time": "2022-05-14T12: 16: 19.129Z",
+                "duration": "00: 00: 12"
+            },
+            {
+                "id": 373, "
+status": 1, "arrived_time": "2022-05-14T12: 15: 22.521Z", "duration": "00: 00: 56"
+            },
+            {
+                "id": 359,
+                "status": 0,
+                "arrived_time": "2022-05-14T12: 04: 17.057Z",
+                "duration": "00: 11: 05"
+            },
+            {
+                "id": 358,
+                "status": 1,
+                "arrived_time": "2022-05-14T12: 0
+4: 00.131Z", "duration": "00: 00: 16"
+            },
+            {
+                "id": 357,
+                "status": 0,
+                "arrived_time": "2022-05-14T12: 03: 46.143Z",
+                "duration": "00: 00: 13"
+            },
+            {
+                "id": 356,
+                "status": 5,
+                "arrived_time": "2022-05-14T12: 03: 00.851Z",
+                "duration": "00: 00: 45"
+            },
+            {
+                "id": 350,
+                "status": 0,
+                "arrived_time": "2022-05-14T11: 55: 08.733Z",
+                "duration": "00: 07: 52"
+            },
+            {
+                "id": 349,
+                "status": 1,
+                "arrived_time": "2022-05-14T11: 54: 36.552Z",
+                "duration": "00: 00: 32"
+            },
+            {
+                "id": 348,
+                "status": 0,
+                "arrived_time": "2022-05-1
+4T11: 54: 23.050Z", "duration": "00: 00: 13"
+            },
+            {
+                "id": 347,
+                "status": 1,
+                "arrived_time": "2022-05-14T11: 54: 17.384Z",
+                "duration": "00: 00: 05"
+            },
+            {
+                "id": 345,
+                "status": 0,
+                "arrived_time": "2022-05-14T11: 46: 59.044Z",
+                "duration": "00: 07: 18"
+            },
+            {
+                "id": 344,
+                "status": -1,
+                "arrived_time": "2022-05-14T11: 45: 29.260Z",
+                "duration": "00: 01: 29"
+            },
+            {
+                "id": 343,
+                "status": 3,
+                "arrived_time": "2022-05-14T11: 45: 20.342Z",
+                "duration": "00: 00: 08"
+            },
+            {
+                "id": 342,
+                "status": 1,
+                "arrived_time": "20
+22-05-14T11: 44: 53.822Z", "duration": "00: 00: 26"
+            },
+            {
+                "id": 341,
+                "status": 0,
+                "arrived_time": "2022-05-14T11: 44: 31.720Z",
+                "duration": "00: 00: 22"
+            },
+            {
+                "id": 340,
+                "status": -1,
+                "arrived_time": "2022-05-14T11: 44: 18.846Z",
+                "duration": "00: 00: 12"
+            },
+            {
+                "id": 339,
+                "status": 3,
+                "arrived_time": "2022-05-14T11: 44: 14.187Z",
+                "duration": "00: 00: 04"
+            },
+            {
+                "id": 338,
+                "status": 1,
+                "arrived_time": "2022-05-14T11: 43: 11.082Z",
+                "duration": "00: 01: 03"
+            },
+            {
+                "id": 337,
+                "status": 0, "arrived_tim
+e": "2022-05-14T11: 43: 05.378Z", "duration": "00: 00: 05"
+            },
+            {
+                "id": 336,
+                "status": 4,
+                "arrived_time": "2022-05-14T11: 42: 54.834Z",
+                "duration": "00: 00: 10"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "fullname": "Shakhboz Jumaev",
+        "device_log": [
+            {
+                "id": 607,
+                "status": 1,
+                "arrived_time": "2022-05-18T04: 51: 19.754Z",
+                "duration": "02: 18: 18"
+            },
+            {
+                "id": 606,
+                "status": -1,
+                "arrived_time": "2022-05-18T04: 50: 58.946Z",
+                "duration": "00: 00: 20"
+            },
+            {
+                "id": 605,
+                "status": 0,
+                "arrived_time": "2022-05-18T04: 50: 58.944Z
+", "duration": "00: 00: 00"
+            },
+            {
+                "id": 604,
+                "status": 3,
+                "arrived_time": "2022-05-18T04: 50: 53.532Z",
+                "duration": "00: 00: 05"
+            },
+            {
+                "id": 603,
+                "status": 1,
+                "arrived_time": "2022-05-18T04: 50: 23.503Z",
+                "duration": "00: 00: 30"
+            },
+            {
+                "id": 602, "sta
+tus": -1, "arrived_time": "2022-05-18T04: 50: 23.501Z", "duration": "00: 00: 00"
+            },
+            {
+                "id": 601,
+                "status": 3,
+                "arrived_time": "2022-05-18T04: 50: 20.469Z",
+                "duration": "00: 00: 03"
+            },
+            {
+                "id": 600,
+                "status": 0,
+                "arrived_time": "2022-05-18T04: 50: 05.280Z",
+                "duration": "00: 00: 15"
+            },
+            {
+                "id": 599,
+                "status": 1,
+                "arrived_time": "2022-05-18T04: 49: 32.259Z",
+                "duration": "00: 00: 33"
+            },
+            {
+                "id": 598,
+                "status": -1,
+                "arrived_time": "2022-05-18T04: 49: 32.256Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 5
+97,
+                "status": 3,
+                "arrived_time": "2022-05-18T04: 49: 26.592Z",
+                "duration": "00: 00: 05"
+            },
+            {
+                "id": 596,
+                "status": 1,
+                "arrived_time": "2022-05-18T04: 48: 44.050Z",
+                "duration": "00: 00: 42"
+            },
+            {
+                "id": 595,
+                "status": 0,
+                "arrived_time": "2022-05-18
+T04: 48: 41.435Z", "duration": "00: 00: 02"
+            },
+            {
+                "id": 594,
+                "status": 1,
+                "arrived_time": "2022-05-18T04: 13: 09.682Z",
+                "duration": "00: 35: 31"
+            },
+            {
+                "id": 593,
+                "status": 1,
+                "arrived_time": "2022-05-17T11: 52: 32.542Z",
+                "duration": "16: 20: 37"
+            },
+            {"
+id": 592, "status": -1, "arrived_time": "2022-05-17T11: 52: 32.534Z", "duration": "00: 00: 00"
+            },
+            {
+                "id": 591,
+                "status": 3,
+                "arrived_time": "2022-05-17T11: 52: 16.233Z",
+                "duration": "00: 00: 16"
+            },
+            {
+                "id": 590,
+                "status": 1,
+                "arrived_time": "202
+2-05-17T11: 51: 24.125Z", "duration": "00: 00: 52"
+            },
+            {
+                "id": 589,
+                "status": 0,
+                "arrived_time": "2022-05-17T11: 51: 00.071Z",
+                "duration": "00: 00: 24"
+            },
+            {
+                "id": 588,
+                "status": -1,
+                "arrived_time": "2022-05-17T11: 50: 56.151Z",
+                "duration": "00: 00: 03"
+            },
+            {
+                "id": 587,
+                "status": 3,
+                "arrived_time": "2022-05-17T11: 50: 48.990Z",
+                "duration": "00: 00: 07"
+            },
+            {
+                "id": 586,
+                "status": 1,
+                "arrived_time": "2022-05-17T11: 50: 28.421Z",
+                "duration": "00: 00: 20"
+            },
+            {
+                "id": 585,
+                "status": 0, "arrived_time
+": "2022-05-17T11: 50: 23.932Z", "duration": "00: 00: 04"
+            },
+            {
+                "id": 584,
+                "status": 5,
+                "arrived_time": "2022-05-17T11: 49: 49.441Z",
+                "duration": "00: 00: 34"
+            },
+            {
+                "id": 583,
+                "status": 3,
+                "arrived_time": "2022-05-17T10: 41: 13.194Z",
+                "duration": "
+01: 08: 36"
+            },
+            {
+                "id": 582,
+                "status": 1,
+                "arrived_time": "2022-05-17T10: 37: 14.353Z",
+                "duration": "00: 03: 58"
+            },
+            {
+                "id": 581,
+                "status": -1,
+                "arrived_time": "2022-05-17T10: 37: 14.352Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 580,
+                "status": 3, "arriv
+ed_time": "2022-05-17T10: 37: 00.599Z", "duration": "00: 00: 13"
+            },
+            {
+                "id": 579,
+                "status": 1,
+                "arrived_time": "2022-05-17T10: 36: 46.764Z",
+                "duration": "00: 00: 13"
+            },
+            {
+                "id": 578,
+                "status": 0,
+                "arrived_time": "2022-05-17T10: 35: 17.554Z", "durat
+ion": "00: 01: 29"
+            },
+            {
+                "id": 577,
+                "status": -1,
+                "arrived_time": "2022-05-17T10: 35: 17.551Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 576,
+                "status": 3,
+                "arrived_time": "2022-05-17T10: 34: 44.257Z",
+                "duration": "00: 00: 33"
+            },
+            {
+                "id": 575,
+                "status": 0,
+                "arrived_time": "2022-05-17T10: 34: 20.159Z",
+                "duration": "00: 00: 24"
+            },
+            {
+                "id": 574,
+                "status": 1,
+                "arrived_time": "2022-05-17T10: 34: 14.170Z",
+                "duration": "00: 00: 05"
+            },
+            {
+                "id": 573,
+                "status": 0,
+                "arrived_time": "2022-05-17T10: 34: 05.172Z",
+                "duration": "00: 00: 08"
+            },
+            {
+                "id": 572,
+                "status": 1,
+                "arrived_time": "2022-05-17T10: 33: 46.603Z",
+                "duration": "00: 00: 18"
+            },
+            {
+                "id": 571,
+                "status": 0,
+                "arrived_time": "2022-05-17T10: 31: 44.320Z",
+                "duration": "00: 02: 02"
+            },
+            {
+                "id": 570, "statu
+s": -1, "arrived_time": "2022-05-17T10: 31: 44.319Z", "duration": "00: 00: 00"
+            },
+            {
+                "id": 569,
+                "status": 3,
+                "arrived_time": "2022-05-17T10: 31: 30.686Z",
+                "duration": "00: 00: 13"
+            },
+            {
+                "id": 568,
+                "status": 0,
+                "arrived_time": "2022-05-17T10: 31: 18
+.040Z", "duration": "00: 00: 12"
+            },
+            {
+                "id": 567,
+                "status": -1,
+                "arrived_time": "2022-05-17T10: 31: 10.605Z",
+                "duration": "00: 00: 07"
+            },
+            {
+                "id": 566,
+                "status": 3,
+                "arrived_time": "2022-05-17T10: 30: 57.618Z",
+                "duration": "00: 00: 12"
+            },
+            {
+                "id": 565,
+                "status": 0,
+                "arrived_time": "2022-05-17T10: 29: 29.960Z",
+                "duration": "00: 01: 27"
+            },
+            {
+                "id": 564,
+                "status": -1,
+                "arrived_time": "2022-05-17T10: 29: 29.959Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 563,
+                "status": 3,
+                "arrived_time": "2022-05-17T
+10: 28: 57.335Z", "duration": "00: 00: 32"
+            },
+            {
+                "id": 562,
+                "status": 0,
+                "arrived_time": "2022-05-17T10: 28: 41.129Z",
+                "duration": "00: 00: 16"
+            },
+            {
+                "id": 561,
+                "status": -1,
+                "arrived_time": "2022-05-17T10: 27: 24.081Z",
+                "duration": "00: 01: 17"
+            },
+            {"
+id": 560, "status": 3, "arrived_time": "2022-05-17T10: 27: 18.127Z", "duration": "00: 00: 05"
+            },
+            {
+                "id": 559,
+                "status": 1,
+                "arrived_time": "2022-05-17T10: 27: 03.622Z",
+                "duration": "00: 00: 14"
+            },
+            {
+                "id": 558,
+                "status": 0,
+                "arrived_time": "2022
+-05-17T10: 26: 55.251Z", "duration": "00: 00: 08"
+            },
+            {
+                "id": 557,
+                "status": 1,
+                "arrived_time": "2022-05-17T10: 14: 29.147Z",
+                "duration": "00: 12: 26"
+            },
+            {
+                "id": 556,
+                "status": 0,
+                "arrived_time": "2022-05-17T10: 14: 22.468Z",
+                "duration": "00: 00: 06
+"
+            },
+            {
+                "id": 555,
+                "status": 1,
+                "arrived_time": "2022-05-17T10: 10: 16.594Z",
+                "duration": "00: 04: 05"
+            },
+            {
+                "id": 554,
+                "status": 0,
+                "arrived_time": "2022-05-17T10: 10: 10.113Z",
+                "duration": "00: 00: 06"
+            },
+            {
+                "id": 553,
+                "status": -1,
+                "arrived_time": "2022-05-17T10: 10: 05.987Z",
+                "duration": "00: 00: 04"
+            },
+            {
+                "id": 552,
+                "status": 3,
+                "arrived_time": "2022-05-17T10: 08: 08.807Z",
+                "duration": "00: 01: 57"
+            },
+            {
+                "id": 551,
+                "status": 0,
+                "arrived_time": "2022-05-17T10: 07: 32.106Z",
+                "duration": "0
+0: 00: 36"
+            },
+            {
+                "id": 550,
+                "status": 1,
+                "arrived_time": "2022-05-17T10: 06: 22.541Z",
+                "duration": "00: 01: 09"
+            },
+            {
+                "id": 549,
+                "status": 0,
+                "arrived_time": "2022-05-17T10: 06: 16.181Z",
+                "duration": "00: 00: 06"
+            },
+            {
+                "id": 548,
+                "status": -1, "arrive
+d_time": "2022-05-17T10: 01: 13.880Z", "duration": "00: 05: 02"
+            },
+            {
+                "id": 547,
+                "status": 3,
+                "arrived_time": "2022-05-17T10: 00: 57.198Z",
+                "duration": "00: 00: 16"
+            },
+            {
+                "id": 546,
+                "status": -1,
+                "arrived_time": "2022-05-17T10: 00: 37.475Z", "durat
+ion": "00: 00: 19"
+            },
+            {
+                "id": 545,
+                "status": 3,
+                "arrived_time": "2022-05-17T09: 59: 57.062Z",
+                "duration": "00: 00: 40"
+            },
+            {
+                "id": 544,
+                "status": -1,
+                "arrived_time": "2022-05-17T09: 57: 51.769Z",
+                "duration": "00: 02: 05"
+            },
+            {
+                "id": 543,
+                "status": 3,
+                "arrived_time": "2022-05-17T09: 57: 41.736Z",
+                "duration": "00: 00: 10"
+            },
+            {
+                "id": 542,
+                "status": 1,
+                "arrived_time": "2022-05-17T09: 57: 10.139Z",
+                "duration": "00: 00: 31"
+            },
+            {
+                "id": 541,
+                "status": 0,
+                "arrived_time": "2022-05-17T09: 56: 37.814Z",
+                "duration": "00: 00: 32"
+            },
+            {
+                "id": 540,
+                "status": -1,
+                "arrived_time": "2022-05-17T09: 55: 15.792Z",
+                "duration": "00: 01: 22"
+            },
+            {
+                "id": 539,
+                "status": 3,
+                "arrived_time": "2022-05-17T09: 12: 25.016Z",
+                "duration": "00: 42: 50"
+            },
+            {
+                "id": 538, "stat
+us": 0, "arrived_time": "2022-05-17T08: 54: 44.273Z", "duration": "00: 17: 40"
+            },
+            {
+                "id": 537,
+                "status": -1,
+                "arrived_time": "2022-05-17T08: 54: 44.271Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 536,
+                "status": -1,
+                "arrived_time": "2022-05-17T08: 54: 44.253Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 535,
+                "status": 3,
+                "arrived_time": "2022-05-17T08: 53: 43.448Z",
+                "duration": "00: 01: 00"
+            },
+            {
+                "id": 534,
+                "status": 0,
+                "arrived_time": "2022-05-17T08: 51: 40.753Z",
+                "duration": "00: 02: 02"
+            },
+            {
+                "id": 53
+3,
+                "status": 1,
+                "arrived_time": "2022-05-17T08: 51: 07.372Z",
+                "duration": "00: 00: 33"
+            },
+            {
+                "id": 532,
+                "status": -1,
+                "arrived_time": "2022-05-17T08: 51: 07.336Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 531,
+                "status": 3,
+                "arrived_time": "2022-05-17
+T08: 50: 40.026Z", "duration": "00: 00: 27"
+            },
+            {
+                "id": 530,
+                "status": 1,
+                "arrived_time": "2022-05-17T08: 49: 26.838Z",
+                "duration": "00: 01: 13"
+            },
+            {
+                "id": 529,
+                "status": 1,
+                "arrived_time": "2022-05-17T08: 43: 13.446Z",
+                "duration": "00: 06: 13"
+            },
+            {"
+id": 528, "status": 3, "arrived_time": "2022-05-17T08: 32: 20.073Z", "duration": "00: 10: 53"
+            },
+            {
+                "id": 527,
+                "status": -1,
+                "arrived_time": "2022-05-17T07: 47: 56.103Z",
+                "duration": "00: 44: 23"
+            },
+            {
+                "id": 526,
+                "status": -1,
+                "arrived_time": "20
+22-05-17T07: 47: 51.078Z", "duration": "00: 00: 05"
+            },
+            {
+                "id": 525,
+                "status": 3,
+                "arrived_time": "2022-05-17T07: 38: 12.945Z",
+                "duration": "00: 09: 38"
+            },
+            {
+                "id": 524,
+                "status": 1,
+                "arrived_time": "2022-05-17T07: 33: 53.044Z",
+                "duration": "00: 04: 19"
+            },
+            {
+                "id": 523,
+                "status": 0,
+                "arrived_time": "2022-05-17T07: 33: 47.697Z",
+                "duration": "00: 00: 05"
+            },
+            {
+                "id": 522,
+                "status": -1,
+                "arrived_time": "2022-05-17T07: 33: 25.005Z",
+                "duration": "00: 00: 22"
+            },
+            {
+                "id": 521,
+                "status": -1, "arrived_ti
+me": "2022-05-17T07: 33: 19.993Z", "duration": "00: 00: 05"
+            },
+            {
+                "id": 520,
+                "status": 3,
+                "arrived_time": "2022-05-17T07: 32: 39.114Z",
+                "duration": "00: 00: 40"
+            },
+            {
+                "id": 519,
+                "status": 5,
+                "arrived_time": "2022-05-17T07: 30: 45.752Z",
+                "duration": "00: 01: 53"
+            },
+            {
+                "id": 518,
+                "status": 0,
+                "arrived_time": "2022-05-17T07: 30: 03.224Z",
+                "duration": "00: 00: 42"
+            },
+            {
+                "id": 517,
+                "status": 1,
+                "arrived_time": "2022-05-17T07: 28: 20.477Z",
+                "duration": "00: 01: 42"
+            },
+            {
+                "id": 516,
+                "status": -1, "arr
+ived_time": "2022-05-17T07: 28: 20.473Z", "duration": "00: 00: 00"
+            },
+            {
+                "id": 515,
+                "status": 3,
+                "arrived_time": "2022-05-17T07: 26: 51.729Z",
+                "duration": "00: 01: 28"
+            },
+            {
+                "id": 514,
+                "status": 1,
+                "arrived_time": "2022-05-17T07: 25: 37.405Z", "dur
+ation": "00: 01: 14"
+            },
+            {
+                "id": 513,
+                "status": 1,
+                "arrived_time": "2022-05-17T07: 16: 58.615Z",
+                "duration": "00: 08: 38"
+            },
+            {
+                "id": 512,
+                "status": -1,
+                "arrived_time": "2022-05-17T07: 16: 58.613Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 511,
+                "status": 3,
+                "arrived_time": "2022-05-17T07: 16: 56.554Z",
+                "duration": "00: 00: 02"
+            },
+            {
+                "id": 510,
+                "status": 1,
+                "arrived_time": "2022-05-17T07: 16: 14.392Z",
+                "duration": "00: 00: 42"
+            },
+            {
+                "id": 509,
+                "status": -1,
+                "arrived_time": "2022-05-17T07: 16: 14.390
+Z", "duration": "00: 00: 00"
+            },
+            {
+                "id": 508,
+                "status": 3,
+                "arrived_time": "2022-05-17T07: 16: 11.401Z",
+                "duration": "00: 00: 02"
+            },
+            {
+                "id": 507,
+                "status": 1,
+                "arrived_time": "2022-05-17T07: 16: 02.510Z",
+                "duration": "00: 00: 08"
+            },
+            {
+                "id": 506, "st
+atus": 0, "arrived_time": "2022-05-17T07: 15: 54.422Z", "duration": "00: 00: 08"
+            },
+            {
+                "id": 505,
+                "status": 1,
+                "arrived_time": "2022-05-17T07: 15: 48.079Z",
+                "duration": "00: 00: 06"
+            },
+            {
+                "id": 504,
+                "status": 0,
+                "arrived_time": "2022-05-17T07: 11: 33.075Z",
+                "duration": "00: 04: 15"
+            },
+            {
+                "id": 503,
+                "status": 1,
+                "arrived_time": "2022-05-17T07: 11: 11.940Z",
+                "duration": "00: 00: 21"
+            },
+            {
+                "id": 502,
+                "status": 0,
+                "arrived_time": "2022-05-17T07: 10: 53.276Z",
+                "duration": "00: 00: 18"
+            },
+            {
+                "id": 50
+1,
+                "status": 1,
+                "arrived_time": "2022-05-17T07: 08: 38.485Z",
+                "duration": "00: 02: 14"
+            },
+            {
+                "id": 500,
+                "status": 1,
+                "arrived_time": "2022-05-17T06: 53: 32.222Z",
+                "duration": "00: 15: 06"
+            },
+            {
+                "id": 499,
+                "status": 0,
+                "arrived_time": "2022-05-17T
+06: 53: 28.704Z", "duration": "00: 00: 03"
+            },
+            {
+                "id": 498,
+                "status": 1,
+                "arrived_time": "2022-05-17T06: 52: 10.053Z",
+                "duration": "00: 01: 18"
+            },
+            {
+                "id": 497,
+                "status": -1,
+                "arrived_time": "2022-05-17T06: 52: 10.049Z",
+                "duration": "00: 00: 00"
+            },
+            {"
+id": 496, "status": 3, "arrived_time": "2022-05-17T06: 51: 51.992Z", "duration": "00: 00: 18"
+            },
+            {
+                "id": 495,
+                "status": 1,
+                "arrived_time": "2022-05-17T05: 16: 21.929Z",
+                "duration": "01: 35: 30"
+            },
+            {
+                "id": 494,
+                "status": 1,
+                "arrived_time": "2022
+-05-17T04: 08: 58.157Z", "duration": "01: 07: 23"
+            },
+            {
+                "id": 487,
+                "status": 1,
+                "arrived_time": "2022-05-16T12: 42: 05.404Z",
+                "duration": "15: 26: 52"
+            },
+            {
+                "id": 486,
+                "status": 0,
+                "arrived_time": "2022-05-16T12: 42: 00.626Z",
+                "duration": "00: 00: 04
+"
+            },
+            {
+                "id": 462,
+                "status": 1,
+                "arrived_time": "2022-05-16T10: 19: 57.469Z",
+                "duration": "02: 22: 03"
+            },
+            {
+                "id": 459,
+                "status": 1,
+                "arrived_time": "2022-05-16T10: 16: 04.306Z",
+                "duration": "00: 03: 53"
+            },
+            {
+                "id": 458,
+                "status": 1,
+                "arrived_time": "2022-05-16T10: 15: 37.870Z",
+                "duration": "00: 00: 26"
+            },
+            {
+                "id": 457,
+                "status": 0,
+                "arrived_time": "2022-05-16T10: 15: 34.686Z",
+                "duration": "00: 00: 03"
+            },
+            {
+                "id": 454,
+                "status": 1,
+                "arrived_time": "2022-05-16T10: 12: 21.919Z",
+                "duration": "00: 03: 12"
+            },
+            {
+                "id": 453,
+                "status": -1,
+                "arrived_time": "2022-05-16T10: 12: 21.914Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 452,
+                "status": 3,
+                "arrived_time": "2022-05-16T10: 08: 30.760Z",
+                "duration": "00: 03: 51"
+            },
+            {
+                "id": 451,
+                "status": 1, "arrived
+_time": "2022-05-16T09: 53: 02.616Z", "duration": "00: 15: 28"
+            },
+            {
+                "id": 450,
+                "status": 1,
+                "arrived_time": "2022-05-16T09: 48: 34.091Z",
+                "duration": "00: 04: 28"
+            },
+            {
+                "id": 449,
+                "status": -1,
+                "arrived_time": "2022-05-16T09: 48: 34.087Z", "durati
+on": "00: 00: 00"
+            },
+            {
+                "id": 448,
+                "status": 3,
+                "arrived_time": "2022-05-16T09: 46: 37.683Z",
+                "duration": "00: 01: 56"
+            },
+            {
+                "id": 447,
+                "status": 5,
+                "arrived_time": "2022-05-16T08: 38: 56.619Z",
+                "duration": "01: 07: 41"
+            },
+            {
+                "id": 446,
+                "status": 0, "
+arrived_time": "2022-05-16T08: 30: 08.161Z", "duration": "00: 08: 48"
+            },
+            {
+                "id": 445,
+                "status": 1,
+                "arrived_time": "2022-05-16T08: 30: 05.443Z",
+                "duration": "00: 00: 02"
+            },
+            {
+                "id": 444,
+                "status": 0,
+                "arrived_time": "2022-05-16T08: 30: 04.294Z", "
+duration": "00: 00: 01"
+            },
+            {
+                "id": 443,
+                "status": 1,
+                "arrived_time": "2022-05-16T08: 29: 29.517Z",
+                "duration": "00: 00: 34"
+            },
+            {
+                "id": 442,
+                "status": 0,
+                "arrived_time": "2022-05-16T08: 29: 24.700Z",
+                "duration": "00: 00: 04"
+            },
+            {
+                "id": 441,
+                "status": 1,
+                "arrived_time": "2022-05-16T08: 29: 09.804Z",
+                "duration": "00: 00: 14"
+            },
+            {
+                "id": 440,
+                "status": -1,
+                "arrived_time": "2022-05-16T08: 29: 09.778Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 426,
+                "status": 3,
+                "arrived_time": "2022-05-16T04: 11: 31.8
+33Z", "duration": "04: 17: 37"
+            },
+            {
+                "id": 424,
+                "status": 1,
+                "arrived_time": "2022-05-14T13: 51: 44.902Z",
+                "duration": "1 кун 14: 19: 46"
+            },
+            {
+                "id": 423,
+                "status": -1,
+                "arrived_time": "2022-05-14T13: 51: 44.897Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 419,
+                "status": 3,
+                "arrived_time": "2022-05-14T13: 18: 49.671Z",
+                "duration": "00: 32: 55"
+            },
+            {
+                "id": 415,
+                "status": 0,
+                "arrived_time": "2022-05-14T13: 00: 47.519Z",
+                "duration": "00: 18: 02"
+            },
+            {
+                "id": 414,
+                "status": 1,
+                "arrived_time": "2022-05-
+14T13: 00: 38.982Z", "duration": "00: 00: 08"
+            },
+            {
+                "id": 413,
+                "status": -1,
+                "arrived_time": "2022-05-14T13: 00: 38.980Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 411,
+                "status": 3,
+                "arrived_time": "2022-05-14T13: 00: 16.729Z",
+                "duration": "00: 00: 22"
+            },
+            {
+                "id": 408,
+                "status": 0,
+                "arrived_time": "2022-05-14T12: 59: 54.352Z",
+                "duration": "00: 00: 22"
+            },
+            {
+                "id": 407,
+                "status": 5,
+                "arrived_time": "2022-05-14T12: 58: 52.411Z",
+                "duration": "00: 01: 01"
+            },
+            {
+                "id": 405,
+                "status": 0,
+                "arrived_time": "2
+022-05-14T12: 58: 17.201Z", "duration": "00: 00: 35"
+            },
+            {
+                "id": 395,
+                "status": 1,
+                "arrived_time": "2022-05-14T12: 51: 03.643Z",
+                "duration": "00: 07: 13"
+            },
+            {
+                "id": 394,
+                "status": 0,
+                "arrived_time": "2022-05-14T12: 50: 56.109Z",
+                "duration": "00: 00: 07"
+            },
+            {
+                "id": 392,
+                "status": 1,
+                "arrived_time": "2022-05-14T12: 24: 46.629Z",
+                "duration": "00: 26: 09"
+            },
+            {
+                "id": 391,
+                "status": -1,
+                "arrived_time": "2022-05-14T12: 24: 46.626Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 390,
+                "status": 3, "arrived_ti
+me": "2022-05-14T12: 24: 38.366Z", "duration": "00: 00: 08"
+            },
+            {
+                "id": 389,
+                "status": 0,
+                "arrived_time": "2022-05-14T12: 24: 03.231Z",
+                "duration": "00: 00: 35"
+            },
+            {
+                "id": 388,
+                "status": 1,
+                "arrived_time": "2022-05-14T12: 23: 27.615Z",
+                "duration": "00: 00: 35"
+            },
+            {
+                "id": 387,
+                "status": 0,
+                "arrived_time": "2022-05-14T12: 23: 22.204Z",
+                "duration": "00: 00: 05"
+            },
+            {
+                "id": 386,
+                "status": 1,
+                "arrived_time": "2022-05-14T12: 22: 38.142Z",
+                "duration": "00: 00: 44"
+            },
+            {
+                "id": 385,
+                "status": 0, "arri
+ved_time": "2022-05-14T12: 22: 31.082Z", "duration": "00: 00: 07"
+            },
+            {
+                "id": 384,
+                "status": 1,
+                "arrived_time": "2022-05-14T12: 22: 26.798Z",
+                "duration": "00: 00: 04"
+            },
+            {
+                "id": 383,
+                "status": -1,
+                "arrived_time": "2022-05-14T12: 22: 26.796Z", "dur
+ation": "00: 00: 00"
+            },
+            {
+                "id": 382,
+                "status": 3,
+                "arrived_time": "2022-05-14T12: 20: 16.783Z",
+                "duration": "00: 02: 10"
+            },
+            {
+                "id": 381,
+                "status": 1,
+                "arrived_time": "2022-05-14T12: 19: 35.812Z",
+                "duration": "00: 00: 40"
+            },
+            {
+                "id": 380,
+                "status": -
+1,
+                "arrived_time": "2022-05-14T12: 19: 35.810Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 379,
+                "status": 3,
+                "arrived_time": "2022-05-14T12: 19: 04.569Z",
+                "duration": "00: 00: 31"
+            },
+            {
+                "id": 378,
+                "status": 1,
+                "arrived_time": "2022-05-14T12: 18: 37.094Z
+", "duration": "00: 00: 27"
+            },
+            {
+                "id": 375,
+                "status": 1,
+                "arrived_time": "2022-05-14T12: 15: 23.413Z",
+                "duration": "00: 03: 13"
+            },
+            {
+                "id": 374,
+                "status": -1,
+                "arrived_time": "2022-05-14T12: 15: 23.412Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 372, "st
+atus": 3, "arrived_time": "2022-05-14T12: 15: 00.928Z", "duration": "00: 00: 22"
+            },
+            {
+                "id": 371,
+                "status": 1,
+                "arrived_time": "2022-05-14T12: 14: 27.873Z",
+                "duration": "00: 00: 33"
+            },
+            {
+                "id": 370,
+                "status": -1,
+                "arrived_time": "2022-05-14T12: 14: 27.872Z", "duration": "00: 00: 00"
+            },
+            {
+                "id": 369,
+                "status": 3,
+                "arrived_time": "2022-05-14T12: 14: 09.820Z",
+                "duration": "00: 00: 18"
+            },
+            {
+                "id": 368,
+                "status": 0,
+                "arrived_time": "2022-05-14T12: 13: 33.383Z",
+                "duration": "00: 00: 36"
+            },
+            {
+                "id": 3
+67,
+                "status": -1,
+                "arrived_time": "2022-05-14T12: 13: 33.381Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 366,
+                "status": 3,
+                "arrived_time": "2022-05-14T12: 13: 21.682Z",
+                "duration": "00: 00: 11"
+            },
+            {
+                "id": 365,
+                "status": 0,
+                "arrived_time": "2022-05-1
+4T12: 12: 55.597Z", "duration": "00: 00: 26"
+            },
+            {
+                "id": 364,
+                "status": 1,
+                "arrived_time": "2022-05-14T12: 11: 49.641Z",
+                "duration": "00: 01: 05"
+            },
+            {
+                "id": 363,
+                "status": -1,
+                "arrived_time": "2022-05-14T12: 11: 49.638Z",
+                "duration": "00: 00: 00"
+            },
+            {
+                "id": 362,
+                "status": 3,
+                "arrived_time": "2022-05-14T12: 11: 33.413Z",
+                "duration": "00: 00: 16"
+            },
+            {
+                "id": 361,
+                "status": 1,
+                "arrived_time": "2022-05-14T12: 11: 07.229Z",
+                "duration": "00: 00: 26"
+            },
+            {
+                "id": 360,
+                "status": -1,
+                "arrived_time": "2
+022-05-14T12: 11: 07.215Z", "duration": "00: 00: 00"
+            },
+            {
+                "id": 355,
+                "status": 3,
+                "arrived_time": "2022-05-14T11: 57: 34.317Z",
+                "duration": "00: 13: 32"
+            },
+            {
+                "id": 354,
+                "status": -1,
+                "arrived_time": "2022-05-14T11: 56: 46.672Z",
+                "duration": "00: 0
+0: 47"
+            },
+            {
+                "id": 353,
+                "status": 3,
+                "arrived_time": "2022-05-14T11: 56: 28.139Z",
+                "duration": "00: 00: 18"
+            },
+            {
+                "id": 352,
+                "status": 1,
+                "arrived_time": "2022-05-14T11: 55: 16.179Z",
+                "duration": "00: 01: 11"
+            },
+            {
+                "id": 351,
+                "status": 1, "arrived_ti
+me": "2022-05-14T11: 55: 16.171Z", "duration": "00: 00: 00"
+            },
+            {
+                "id": 346,
+                "status": 4,
+                "arrived_time": "2022-05-14T11: 49: 14.736Z",
+                "duration": "00: 06: 01"
+            }
+        ]
+    }
+]
+}
